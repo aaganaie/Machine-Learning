@@ -3,7 +3,7 @@
 This is a Hindi/Devnagri Language detection program , made in jupyter and python idle.
 
 A large Dataset of images were used . 
-csv of this Dataset is on -: 
+csv of this Dataset is on -: https://drive.google.com/open?id=0B4LbH2aC3oMeb3JMNFdMVmRHZ28
 Download the above File and keep in the same folder with other file on reprository for program to work .
 (LIMIT OF GITHUB IS 25 MB and file has 94MB size)
 
