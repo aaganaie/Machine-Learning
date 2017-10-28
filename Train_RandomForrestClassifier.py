@@ -6,6 +6,8 @@ import os
 from skimage import measure
 import csv
 
+##ASK  IMAGE DATA FROM ME , TO EXECUTE THIS MODULE
+
 #extract features from preproccesed image by drawing contours and regionprops
 def feature_extraction(ppi,OI,GI):
     
